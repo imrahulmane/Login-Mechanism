@@ -1,0 +1,16 @@
+[
+  {
+    "username": "imrahul",
+    "firstName": "Rahul",
+    "lastName": "Mane",
+    "password": "77ae9834a7341d286c138df16087bc7ed2e0165a12253974b28bccddbfea0fca262c477625dbff33f8f9b8125b203d110a7d31cf44924a3b384fdd2954fe33a3",
+    "salt": "945a60830fdfb6594f13c12ef2376aca"
+  },
+  {
+    "username": "imvivek",
+    "firstName": "Vivek",
+    "lastName": "Mane",
+    "password": "eb6a69086c897509bb510580da72764ac92615e83a5bb5ac3979006adbea23a22a50db9505dc8203de29b75218c54a04f7b806dadeb61cbd879f8497088d18d2",
+    "salt": "f23067494e3828b9d0dfc687da9b2b66"
+  }
+]
